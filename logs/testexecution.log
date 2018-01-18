@@ -1,0 +1,44 @@
+[main] 15:31:08,050 INFO  [common.common2] opening browser
+[main] 15:31:11,833 INFO  [common.common2] opened oscommerce
+[main] 15:31:11,833 INFO  [test.logintest] first comment
+[main] 15:31:43,170 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[1]/u'clicked 
+[main] 15:31:43,320 INFO  [common.common2] ecalix@test.comentered 
+[main] 15:31:43,389 INFO  [common.common2] test123entered 
+[main] 15:32:13,787 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='tdb5']'clicked 
+[main] 15:32:14,112 INFO  [common.common2] [[ChromeDriver: chrome on XP (77e3274c0474a3a084cdc898f4740bc1)] -> xpath: //*[@id='tdb4']/span]clicked 
+[main] 15:32:14,114 INFO  [test.logintest] second comment
+[main] 15:34:02,338 INFO  [common.common2] opening browser
+[main] 15:34:05,862 INFO  [common.common2] opened oscommerce
+[main] 15:34:05,862 INFO  [test.logintest] first comment
+[main] 15:34:37,096 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[1]/u'clicked 
+[main] 15:34:37,214 INFO  [common.common2] ecalix@test.comentered 
+[main] 15:34:37,288 INFO  [common.common2] test123entered 
+[main] 15:35:07,681 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='tdb5']'clicked 
+[main] 15:35:08,045 INFO  [common.common2] [[ChromeDriver: chrome on XP (382acd018f420b0ca4b98439896f6bff)] -> xpath: //*[@id='tdb4']/span]clicked 
+[main] 15:35:08,045 INFO  [test.logintest] second comment
+[main] 17:39:52,096 INFO  [common.common2] opening browser
+[main] 17:39:59,678 INFO  [common.common2] opened oscommerce
+[main] 17:39:59,678 INFO  [test.logintest] first comment
+[main] 17:40:30,949 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[1]/u'clicked 
+[main] 17:40:31,110 INFO  [common.common2] ecalix@test.comentered 
+[main] 17:40:31,199 INFO  [common.common2] test123entered 
+[main] 17:41:01,801 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='tdb5']'clicked 
+[main] 17:41:02,312 INFO  [common.common2] [[ChromeDriver: chrome on XP (112cc2d62c46d2c41b3f100edb9a0d69)] -> xpath: //*[@id='tdb4']/span]clicked 
+[main] 17:41:02,312 INFO  [test.logintest] second comment
+[main] 18:31:30,507 INFO  [common.common2] opening browser
+[main] 18:31:35,153 INFO  [common.common2] opened oscommerce
+[main] 18:31:35,153 INFO  [test.loginStepDefinition] first comment
+[main] 18:32:06,520 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[1]/u'clicked 
+[main] 18:32:06,692 INFO  [common.common2] ecalix@test.comentered 
+[main] 18:32:06,764 INFO  [common.common2] test123entered 
+[main] 18:32:37,377 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='tdb5']'clicked 
+[main] 18:32:37,377 INFO  [test.loginStepDefinition] second comment
+[main] 18:37:30,334 INFO  [common.common2] opening browser
+[main] 18:37:34,088 INFO  [common.common2] opened oscommerce
+[main] 18:37:34,088 INFO  [test.loginStepDefinition] first comment
+[main] 18:38:05,575 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='bodyContent']/div/div[1]/a[1]/u'clicked 
+[main] 18:38:05,724 INFO  [common.common2] ecalix@test.comentered 
+[main] 18:38:05,809 INFO  [common.common2] test123entered 
+[main] 18:38:36,332 INFO  [common.common2] Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='tdb5']'clicked 
+[main] 18:38:36,332 INFO  [test.loginStepDefinition] second comment
+[main] 18:38:36,749 INFO  [common.common2] [[ChromeDriver: chrome on XP (de5afc9ea51b1be9c1b275f1cebe099a)] -> xpath: //*[@id='tdb4']/span]clicked 

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Startingnew" duration-ms="70979" started-at="2018-01-18T01:39:52Z" finished-at="2018-01-18T01:41:03Z">
+    <groups>
+    </groups>
+    <test name="testngTest" duration-ms="70979" started-at="2018-01-18T01:39:52Z" finished-at="2018-01-18T01:41:03Z">
+      <class name="test.logintest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:test.logintest@23d2a7e8]" name="setUp" is-config="true" duration-ms="7592" started-at="2018-01-17T17:39:52Z" finished-at="2018-01-17T17:39:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="mainTest()[pri:0, instance:test.logintest@23d2a7e8]" name="mainTest" duration-ms="62634" started-at="2018-01-17T17:39:59Z" finished-at="2018-01-17T17:41:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainTest -->
+        <test-method status="PASS" signature="screenShot(org.testng.ITestResult)[pri:0, instance:test.logintest@23d2a7e8]" name="screenShot" is-config="true" duration-ms="733" started-at="2018-01-17T17:41:02Z" finished-at="2018-01-17T17:41:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=mainTest status=SUCCESS method=logintest.mainTest()[pri:0, instance:test.logintest@23d2a7e8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- screenShot -->
+      </class> <!-- test.logintest -->
+    </test> <!-- testngTest -->
+  </suite> <!-- Startingnew -->
+</testng-results>
